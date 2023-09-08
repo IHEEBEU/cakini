@@ -1,3 +1,3 @@
-import app from "../server/index";
+const app =require("../server/index");
 
-export default app;
+module.exports = app;
