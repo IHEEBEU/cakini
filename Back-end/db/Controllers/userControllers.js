@@ -1,4 +1,4 @@
-const User = require('../models/userModels'); // Make sure the path is correct
+const User = require('../Models/userModels'); // Make sure the path is correct
 const bcrypt = require('bcrypt');
 const jwt = require('jsonwebtoken');
 
