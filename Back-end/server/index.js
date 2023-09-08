@@ -3,7 +3,7 @@ const connectDatabase = require('../db/config');
 const userRoutes = require('../db/Routes/userRoutes');
 const productRoutes = require('../db/Routes/productRoutes.js'); // Check the path
 
-const PORT = 5000;
+const PORT = process.env.PORT || 5000;
 const app = express();
 const cors = require('cors');
 
