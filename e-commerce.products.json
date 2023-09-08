@@ -1,0 +1,104 @@
+[{
+  "_id": {
+    "$oid": "64edfd929d3457ce7ab97540"
+  },
+  "name": "Chocolate Caramel Fudge Cake Half Kg Eggless",
+  "description": "Cake Flavour- Caramel , Version- Eggless , Shape- Round , Serves- 4-6 People",
+  "image": "https://www.fnp.com/images/pr/l/v20221205145734/chocolate-caramel-fudge-cake-half-kg-eggless_1.jpg",
+  "price": "10",
+  "quantityAvailable": "5",
+  "category": "Birthday",
+  "reviews": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ee11f1f9e46ef0a4e2b879"
+  },
+  "name": "Fudge Brownie Cake Half kg",
+  "description": "Cake Flavour- Truffle , Serves- 4-6 People , Size- 6 inches in Diameter",
+  "image": "https://www.fnp.com/images/pr/l/v20221205145945/fudge-brownie-cake-half-kg_1.jpg",
+  "price": "64",
+  "quantityAvailable": "4",
+  "category": "Wedding",
+  "reviews": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ee12fef9e46ef0a4e2b89b"
+  },
+  "name": "Roses On Heart Designer Cake",
+  "description": "Cake Flavour- Chocolate , Type of Cake- Cream , Serves- 4-6 People",
+  "image": "https://www.fnp.com/images/pr/l/v20221118132325/roses-on-heart-designer-cake-half-kg_1.jpg",
+  "price": "80.5",
+  "quantityAvailable": "10",
+  "category": "Party",
+  "reviews": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ef4f34e35af935c749bb1c"
+  },
+  "name": "ice-cream",
+  "description": "bered mte3 sif , yekfi w ywafi , ma3adech cakes",
+  "image": "https://res.cloudinary.com/dww70arvk/image/upload/v1693404982/sccj0fe1g6ljonahyxet.webp",
+  "price": "12.2",
+  "quantityAvailable": "10",
+  "category": "Party",
+  "reviews": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ef60b7e35af935c749bb7f"
+  },
+  "name": "ice-cream",
+  "description": "bered mte3 sif , yekfi w ywafi , ma3adech cakes",
+  "image": "https://res.cloudinary.com/dww70arvk/image/upload/v1693409443/cdyiwllb0ksng6gybcox.png",
+  "price": "5",
+  "quantityAvailable": "10",
+  "category": "Birthday",
+  "reviews": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ef644be35af935c749bbad"
+  },
+  "name": "ice-cream",
+  "description": "bered mte3 sif , yekfi w ywafi , ma3adech cakes",
+  "image": "https://res.cloudinary.com/dww70arvk/image/upload/v1693410380/kgmzlrp8yz8cxcn66cyo.png",
+  "price": "10",
+  "quantityAvailable": "10",
+  "category": "Party",
+  "reviews": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ef76e4e35af935c749bbe5"
+  },
+  "name": "ahsen haja",
+  "description": "lemima",
+  "image": "https://res.cloudinary.com/dww70arvk/image/upload/v1693415114/lxm5lqxj5tbr0vxh56tm.webp",
+  "price": "12.2",
+  "quantityAvailable": "10",
+  "category": "Birthday",
+  "reviews": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64efde2170ea3fcf611fb58b"
+  },
+  "name": "LOTFI",
+  "description": "hey",
+  "image": "https://res.cloudinary.com/dww70arvk/image/upload/v1693441557/cptdscsc1nagfbvxqyg4.jpg",
+  "price": "0",
+  "quantityAvailable": "10",
+  "category": "Birthday",
+  "reviews": [],
+  "__v": 0
+}]

@@ -1,0 +1,89 @@
+[{
+  "_id": {
+    "$oid": "64ee13d44e4271a4967610af"
+  },
+  "name": "Roses On Heart Designer Cake",
+  "description": "Cake Flavour- Chocolate , Type of Cake- Cream , Serves- 4-6 People",
+  "image": "https://thecakebakeshop.com/cdn/shop/products/EW7A3931_720x.jpg?v=1600278567",
+  "price": "80.5",
+  "quantityAvailable": "10",
+  "category": "Wedding"
+},
+{
+  "_id": {
+    "$oid": "64edfd929d3457ce7ab97540"
+  },
+  "name": "Chocolate Caramel Fudge Cake Half Kg Eggless",
+  "description": "Cake Flavour- Caramel , Version- Eggless , Shape- Round , Serves- 4-6 People",
+  "image": "https://thecakebakeshop.com/cdn/shop/products/ChocolatePumpkinCakewholewithpumpkin_720x.jpg?v=1600282066",
+  "price": "10",
+  "quantityAvailable": "5",
+  "category": "Birthday",
+  "reviews": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ee11f1f9e46ef0a4e2b879"
+  },
+  "name": "Fudge Brownie Cake Half kg",
+  "description": "Cake Flavour- Truffle , Serves- 4-6 People , Size- 6 inches in Diameter",
+  "image": "https://thecakebakeshop.com/cdn/shop/products/pumpkingingercakewhole_720x.jpg?v=1600281511",
+  "price": "64",
+  "quantityAvailable": "4",
+  "category": "Wedding",
+  "reviews": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ee12fef9e46ef0a4e2b89b"
+  },
+  "name": "Roses On Heart Designer Cake",
+  "description": "Cake Flavour- Chocolate , Type of Cake- Cream , Serves- 4-6 People",
+  "image": "https://thecakebakeshop.com/cdn/shop/products/ChocolatePumpkinCakewholewithpumpkin_720x.jpg?v=1600282066",
+  "price": "80.5",
+  "quantityAvailable": "10",
+  "category": "Party",
+  "reviews": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ef4f34e35af935c749bb1c"
+  },
+  "name": "ice-cream",
+  "description": "so smooth and cold\n",
+  "image": "https://thecakebakeshop.com/cdn/shop/products/ChocolateCaramelPopcornCakeWhole2_720x.jpg?v=1600283877",
+  "price": "12.2",
+  "quantityAvailable": "10",
+  "category": "Party",
+  "reviews": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ef60b7e35af935c749bb7f"
+  },
+  "name": "ice-cream",
+  "description": "smooth and tasty ",
+  "image": "https://thecakebakeshop.com/cdn/shop/products/EW7A1558_720x.jpg?v=1589412005",
+  "price": "5",
+  "quantityAvailable": "10",
+  "category": "Birthday",
+  "reviews": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ef644be35af935c749bbad"
+  },
+  "name": "ice-cream",
+  "description": "bered mte3 sif , yekfi w ywafi , ma3adech cakes",
+  "image": "https://thecakebakeshop.com/cdn/shop/products/ChocolatePumpkinCakewholewithpumpkin_720x.jpg?v=1600282066",
+  "price": "10",
+  "quantityAvailable": "10",
+  "category": "Party",
+  "reviews": [],
+  "__v": 0
+}]
