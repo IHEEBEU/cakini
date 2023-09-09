@@ -21,7 +21,7 @@ import Forum from "./components/Forum.jsx";
 
 
 function App() {
-  const [view, setView] = useState("authentication");
+  const [view, setView] = useState("home");
   const [searchResults, setSearchResults] = useState([]);
   const [user, setUser] = useState([]);
  
