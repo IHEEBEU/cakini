@@ -106,13 +106,13 @@ const MenuandPricing = () => {
     const fetchData = async () => {
       try {
         const birthdayResponse = await axios.get(
-          "http://localhost:5000/products/category/Birthday"
+          "https://deployingbec.vercel.app/products/category/Birthday"
         );
         const weddingResponse = await axios.get(
-          "http://localhost:5000/products/category/Wedding"
+          "https://deployingbec.vercel.app/products/category/Wedding"
         );
         const partyResponse = await axios.get(
-          "http://localhost:5000/products/category/Party"
+          "https://deployingbec.vercel.app/products/category/Party"
         );
 
         setBirthday(birthdayResponse.data);
