@@ -13,7 +13,7 @@ const ProductItem = ({ product, onItemClick }) => {
     <div className="col-md-3 col-sm-6">
       <div className="product-grid3">
         <div className="product-image3">
-          <a href="#">
+          <a href="#" onClick={(event) => event.preventDefault()}>
             <img className="pic-2" src={product.image} alt={product.title} />
             <img className="pic-1" src={product.image} alt={product.title} />
           </a>

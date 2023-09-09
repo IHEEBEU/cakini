@@ -51,7 +51,7 @@ function Navbar({
 
   return (
     <div>
-      <nav className="navbar navbar-expand-lg bg-dark navbar-dark shadow-sm py-3 py-lg-0 px-3 px-lg-0">
+      <nav className="navbar navbar-expand-lg bg-dark navbar-dark shadow-sm py-3 py-lg-0 px-3 px-lg-0" id='changeres'>
         <FaBirthdayCake className="logo fs-1 text-lgiht me-3" />
         <div className="collapse navbar-collapse" id="navbarCollapse">
           <div className="navbar-nav ms-auto mx-lg-auto py-0">

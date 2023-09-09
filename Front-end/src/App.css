@@ -950,10 +950,11 @@ padding: 50px;
   text-align: center;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
-  flex-direction: row;
+  flex-direction: column; /* Change to column on smaller screens */
   align-items: center;
-  height: 450px;
-  width: 600px;
+  max-height: 90vh; /* Limit height to 90% of the viewport height */
+  width: 90%; /* Use percentage for width */
+  max-width: 600px; /* Limit maximum width */
 }
 
 /* Style for the close button */
@@ -965,20 +966,39 @@ padding: 50px;
   cursor: pointer;
   color: #333;
 }
-.pop-img{
-  height: -webkit-fill-available;
+
+.pop-img {
+  max-width: 100%;
+  height: auto; /* Maintain aspect ratio */
 }
-#product-content{
+
+#product-content {
   display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap:23px
-  }
-#shop-cartt{
+  flex-direction: column;
+  align-items: center;
+  gap: 23px;
+}
+
+#shop-cartt {
   cursor: pointer;
   font-size: 30px;
 }
 
+/* Media Query for smaller screens */
+@media (max-width: 768px) {
+  .popup-content {
+    padding: 10px; /* Reduce padding on smaller screens */
+  }
+
+  .pop-img {
+    max-width: 100%;
+    height: auto; /* Maintain aspect ratio */
+  }
+
+  #product-content {
+    gap: 10px; /* Reduce gap on smaller screens */
+  }
+}
 
 /* side bar css */
 /* Sidebar */
@@ -1106,4 +1126,15 @@ padding: 50px;
   position: relative;
   top: 7px;
   right: 5px;
+}
+@media (min-width: 992px) {
+  .navbar-expand-lg .navbar-collapse {
+    display: block !important;
+    flex-basis: auto;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: 43%;
+    align-items: center;
+    padding-right: 50px;
+  }
 }
