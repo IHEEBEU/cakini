@@ -40,7 +40,7 @@ function AddPost() {
         };
 
         try {
-            const response = await axios.post('http://localhost:5000/products', productData);
+            const response = await axios.post('deployingbec.vercel.app/products', productData);
             console.log('Product data submitted:', response.data);
             // You can also perform any additional actions or show success messages here
             setTitle('');
