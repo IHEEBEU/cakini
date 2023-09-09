@@ -6,7 +6,7 @@ function Registration({ auth }) {
     username: '',
     email: '',
     password: '',
-    image: '',
+    image: 'x',
     phoneNumber: '',
     city: '',
   });
@@ -95,13 +95,7 @@ function Registration({ auth }) {
         </div>
         
         <div>
-          <label>Image URL:</label>
-          <input
-            type="text"
-            name="image"
-            value={userData.image}
-            onChange={handleInputChange}
-          />
+         
         </div>
         <div>
           <label>Phone Number:</label>
