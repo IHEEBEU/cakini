@@ -11,7 +11,7 @@ function Authentication({ changehome, current, regist, currentuser }) {
 
         try {
             // Send a POST request to your server for authentication
-            const response = await axios.post('http://127.0.0.1:5000/login', {
+            const response = await axios.post('deployingbec.vercel.app/login', {
                 email: email,
                 password: password,
             });
