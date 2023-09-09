@@ -40,7 +40,7 @@ function Registration({ auth }) {
 
     try {
       const userDataWithUsageType = { ...userData, ...usin };
-      const response = await axios.post('http://localhost:5000/users', userDataWithUsageType);
+      const response = await axios.post('https://deployingbec.vercel.app/users', userDataWithUsageType);
       console.log('User registered:', response.data);
     } catch (error) {
       console.error('Error registering user:', error);
